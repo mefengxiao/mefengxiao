@@ -12,7 +12,7 @@
 
 </dev>
 
-## $3\text{Ni} + 2\text{CO} \rightarrow \text{NiCONiCoNi}$
+# $3\text{Ni} + 2\text{CO} \rightarrow \text{NiCONiCoNi}$
 
 ![2ciyuan](img/1.png)
 
