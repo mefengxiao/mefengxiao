@@ -12,4 +12,8 @@
 
 </dev>
 
-$3\text{Ni} + 2\text{CO} \rightarrow \text{NiCONiCoNi}$
+## $3\text{Ni} + 2\text{CO} \rightarrow \text{NiCONiCoNi}$
+
+![2ciyuan](img/1.ppg)
+
+原图作者：[Miaki](https://www.pixiv.net/users/53805256)
