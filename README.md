@@ -1,16 +1,13 @@
-## Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mefengxiao&show_icons=true&theme=tokyonight)](https://space.bilibili.com/689341156)
 
-<!--
-**mefengxiao/mefengxiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="title" align=center>
 
-Here are some ideas to get you started:
+[![BiliBili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/689341156)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mefengxiao)[![Gitee](https://img.shields.io/badge/Gitee-FF6600?style=for-the-badge&logo=gitee&logoColor=white)](https://gitee.com/huangofficial)
+[![email](https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mchuangofficial@outlook.com)
+[![Minecraft](https://img.shields.io/badge/Minecraft-00FF00?style=for-the-badge&logo=minecraft&logoColor=white)](https://zh-cn.namemc.com/profile/huangofficial.1)
+[![Steam](https://img.shields.io/badge/Steam-100000?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561199125559574/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</dev>
+
