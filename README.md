@@ -11,3 +11,5 @@
 
 </dev>
 
+$3\text{Ni} + 2\text{CO} \rightarrow \text{NiCONiCoNi}$
+
