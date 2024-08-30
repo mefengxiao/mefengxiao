@@ -1,6 +1,7 @@
+<div id="title" align=center>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mefengxiao&show_icons=true&theme=tokyonight)](https://space.bilibili.com/689341156)
 
-<div id="title" align=center>
 
 [![BiliBili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/689341156)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mefengxiao)[![Gitee](https://img.shields.io/badge/Gitee-FF6600?style=for-the-badge&logo=gitee&logoColor=white)](https://gitee.com/huangofficial)
@@ -12,4 +13,3 @@
 </dev>
 
 $3\text{Ni} + 2\text{CO} \rightarrow \text{NiCONiCoNi}$
-
