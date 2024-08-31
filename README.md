@@ -2,6 +2,13 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mefengxiao"></img>
 
+counting of visitors to this page in this section started from now
+
+![](https://count.getloli.com/get/@mefengxiao.github.readme)
+</br>
+
+[MIT](https://github.com/BEPb/BEPb/blob/main/LICENSE)
+
 [![BiliBili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/689341156)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mefengxiao)
 [![Gitee](https://img.shields.io/badge/Gitee-FF6600?style=for-the-badge&logo=gitee&logoColor=white)](https://gitee.com/huangofficial)
