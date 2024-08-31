@@ -25,6 +25,6 @@ counting of visitors to this page in this section started from now
 
 原图作者：[Miaki](https://www.pixiv.net/users/53805256)
 
-<img src="https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif" alt="404 Not Found" style="width: 15%;">
+<img src="https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif" alt="404 Not Found" style="width: 10%;">
 
 One moment please...
