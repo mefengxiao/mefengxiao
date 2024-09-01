@@ -1,6 +1,6 @@
 <div id="title" align=center>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mefengxiao"></img>
+![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mefengxiao&theme=radical&layout=compact)
 
 counting of visitors to this page in this section started from now
 
